@@ -1,7 +1,6 @@
-- 👋 Hi, I’m Arya
-- 👀 I’m interested in managing data, analyzing, and to make predictions based on it, along with organizing things.
+- 👋 Hi, I’m Arya.
 - 🌱 I’m currently learning data analytics with specialization in computational science.
-- 💞️ I’m looking to collaborate on projects related to data analytics and computational science
+- 💞️ I’m looking to collaborate on projects related to data analytics and computational science.
 - 📫 How to reach me @Aryaaru18 & gauria183@gmail.com
 
 <!---
