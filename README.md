@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Arya.
-- 🌱 I’m currently learning data analytics with specialization in computational science.
+- 🌱 I'm currently pursuing my master's in Data Analytics with specialization in Computational Science.
 - 💞️ I’m looking to collaborate on projects related to data analytics and computational science.
 - 📫 How to reach me @Aryaaru18 & gauria183@gmail.com
 
